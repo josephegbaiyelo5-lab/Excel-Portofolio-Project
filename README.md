@@ -74,6 +74,8 @@ DAX
 	Vendor Spend = SUM(WorkOrders[ContractValue])  
 	Compliance Rate = DIVIDE(CALCULATE(COUNTROWS(WorkOrders),WorkOrders[Compliance]="Compliant"),COUNTROWS(WorkOrders))  
 
+[Check_my_work_here](https://github.com/josephegbaiyelo5-lab/Excel-Portofolio-Project/blob/main/Nuclear%20Energy%20Project.xlsx)
+
 **Project 1 : Executive KPI Dashboard Analysis and Insight**
 
 •	Business Questions  
