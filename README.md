@@ -21,7 +21,7 @@ The following Excel skills were utilized for analysis:
 •	VLOOKUP  
 
 **Dataset**  
-The dataset used for this project contains 5,000 simulated work-order and operational records representing a large asset-intensive energy organisation. The dataset is available, which provides a foundation for analysing data using Excel. It includes detailed information on  
+The dataset used for this project contains 5,000 simulated work-order and operational records representing a large asset-intensive energy organisation. The dataset is available https://github.com/josephegbaiyelo5-lab/Excel-Portofolio-Project/blob/main/Nuclear%20Energy%20Project%20CSV/vendors.csv, which provides a foundation for analysing data using Excel. It includes detailed information on  
 •	Plants  
 •	Problems  
 •	Root Causes  
